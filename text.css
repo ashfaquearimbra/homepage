@@ -1,0 +1,10 @@
+img.slide{
+
+    height:708px;
+}
+.card{
+    transition: 1s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
